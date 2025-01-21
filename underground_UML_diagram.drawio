@@ -91,17 +91,17 @@
         <mxCell id="DigcfTSRDrCoX3ZLGl0v-30" value="Need artists?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1870" y="610" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DigcfTSRDrCoX3ZLGl0v-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DigcfTSRDrCoX3ZLGl0v-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1932" y="690" as="sourcePoint" />
             <mxPoint x="1933" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DigcfTSRDrCoX3ZLGl0v-32" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1940" y="690" width="40" height="30" as="geometry" />
+          <mxGeometry x="1940" y="735" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DigcfTSRDrCoX3ZLGl0v-34" value="Upload flyer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1870" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1872.5" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DigcfTSRDrCoX3ZLGl0v-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -130,8 +130,32 @@
             <mxPoint x="2240" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DigcfTSRDrCoX3ZLGl0v-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-41" value="Artist Deck" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2240" y="618" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2299.41" y="678" as="sourcePoint" />
+            <mxPoint x="2299" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-43" value="Artist Messenger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2240" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2299.41" y="780" as="sourcePoint" />
+            <mxPoint x="2299" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-45" value="Booking/Payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2240" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DigcfTSRDrCoX3ZLGl0v-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2240" y="849.41" as="sourcePoint" />
+            <mxPoint x="2160" y="849.41" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
