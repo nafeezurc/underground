@@ -112,6 +112,27 @@
         <mxCell id="DigcfTSRDrCoX3ZLGl0v-36" value="Add description" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1870" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1995" y="649.41" as="sourcePoint" />
+            <mxPoint x="2080" y="649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2000" y="618" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-39" value="Genre Preferences" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2080" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2200" y="648" as="sourcePoint" />
+            <mxPoint x="2240" y="648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2240" y="618" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
