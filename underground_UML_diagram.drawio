@@ -166,6 +166,12 @@
         <mxCell id="DigcfTSRDrCoX3ZLGl0v-48" value="Post Listener card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1870" y="930" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DigcfTSRDrCoX3ZLGl0v-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DigcfTSRDrCoX3ZLGl0v-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="959.41" as="sourcePoint" />
+            <mxPoint x="1764" y="959.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
